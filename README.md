@@ -4,7 +4,7 @@
 #### ([formerly hardware and software engineer, web developer and system administrator](https://urgench.hh.uz/resume/97df6440ff0c9effdc0039ed1f437046514a57?hhtmFrom=resume_list))
 
 ## Education
-- **B.S., Applied Mathematics and Computer Science | [Moscow State University Branch in Tashkent](https://msu.uz)**
+**B.S., Applied Mathematics and Computer Science | [Moscow State University Branch in Tashkent](https://msu.uz)**
 
 ## Last official job position
 **Chief IT and Security Specialist @ [State Assets Management Agency](https://xorazm.davaktiv.uz) (_2020 - 2023_)**
