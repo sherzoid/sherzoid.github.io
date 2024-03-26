@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # IT and security specialist
 #### ([formerly hardware and software engineer, web developer and system administrator](https://urgench.hh.uz/resume/97df6440ff0c9effdc0039ed1f437046514a57?hhtmFrom=resume_list))
 
@@ -15,6 +17,7 @@
 ## Previous Projects
 ### [Robo5 Car Washer](https://youtu.be/l2i3kR8xNR4)
 Several Arduino PCBs (C/C++) communicate with a Windows (C#) application (touch controlled user interface)
+I had to build a custom library for the stepper motors we had and the whole thing was quite challenging to make it smooth and stable...
 
 [![schematics](/assets/img/carwasherproto.jpg)](https://youtu.be/l2i3kR8xNR4)
 
