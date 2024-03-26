@@ -1,8 +1,9 @@
 sherzoid@gmail.com
 
-#Education
+# Education
 Moscow State University Branch in Tashkent
 
-#Projects
+### Projects
 https://script.uz
+
 visel.uz
